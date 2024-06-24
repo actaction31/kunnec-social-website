@@ -1,0 +1,70 @@
+.container_su,
+.container_si,
+.container_fp{
+    background-image: url(../images/cloud-horizon.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 110px 15px 36px;
+}
+.container_fp{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+h5{
+    color: #009900;
+}
+
+  .card {
+    border: 1px solid rgba(0, 153, 0, 0.8);
+    -webkit-box-shadow: 0 8px 6px -6px black;
+    -moz-box-shadow: 0 8px 6px -6px black;
+	  box-shadow: 0 8px 6px -6px black;
+  }
+
+.card-header {
+    color: #ffffff;
+    background-color: #009900;
+  }
+
+.container{
+    height:90px;
+  }
+  
+.btn-link {
+    color: #009900;
+    text-decoration: none;
+  }
+
+.btn-link:hover {
+    color: #033f03;
+    text-decoration: none;
+  }
+
+.form-check-label {
+    color: #009900;
+  }
+
+.btn-success {
+    background-color: #009900;
+  }
+
+.btn-success:hover {
+    background-color: #033f03;
+}
+.form-check-input{
+  margin-top: .4rem;
+}
+.username-container{
+  position: relative;
+}
+#username-spinner{
+  position: absolute;
+  color: #009900 !important;
+  top: .7rem;
+  right: .7rem;  
+}
